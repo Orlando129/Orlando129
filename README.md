@@ -132,7 +132,7 @@ Me chamo Orlando Telles, tenho 21 anos e sou natural de Pernambuco. Atualmente, 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orlando129&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orlando129&theme=dark&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
