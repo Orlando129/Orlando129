@@ -20,7 +20,7 @@ Me chamo Orlando Telles, tenho 21 anos e sou natural de Pernambuco. Atualmente, 
             src="https://camo.githubusercontent.com/a1d45439114ba33c6c001a04356f5e6d5da54bd271fe47c7437c2c100d31c7c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d707572706c65"
         />
     </a> 
-    <a href="orlandotelles129@gmail.com">
+    <a href="mailto:orlandotelles129@gmail.com">
         <img 
             alt="Gmail" 
             title="Gmail" 
