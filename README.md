@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Orlando Telles, tenho 21 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIT-PE. 
+Me chamo Orlando Telles, tenho 21 anos e sou natural de Pernambuco. Atualmente, estou cursando Ciência da Computação na Universidade Nova Roma. 
 
 ### 🌐Redes Sociais
 <p align="left">
